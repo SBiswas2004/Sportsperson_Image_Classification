@@ -1,35 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Sportsperson Image Classification</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      padding: 20px;
-      max-width: 800px;
-      margin: auto;
-      background-color: #f9f9f9;
-    }
-    h1, h2 {
-      color: #2c3e50;
-    }
-    pre {
-      background: #f4f4f4;
-      padding: 12px;
-      border-radius: 5px;
-      overflow-x: auto;
-    }
-    img.header-image {
-      width: 100%;
-      max-height: 300px;
-      object-fit: cover;
-      border-radius: 10px;
-      margin-bottom: 20px;
-    }
-  </style>
 </head>
 <body>
 
