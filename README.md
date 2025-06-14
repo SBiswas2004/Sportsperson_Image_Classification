@@ -25,7 +25,7 @@
   <ol>
     <li>Make sure you have Python 3.8+ installed on your system.</li>
     <li>Start the Flask backend by running:
-      <pre>python server.py</pre>
+      <pre>python server.ipynb</pre>
     </li>
     <li>Open the <code>app.html</code> file in your web browser to access the user interface.</li>
     <li>Upload an image of a sportsperson and view the predicted result on the page.</li>
